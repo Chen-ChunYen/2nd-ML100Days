@@ -15,3 +15,4 @@ data/bureau_balance.csv
 data/credit_card_balance.csv
 data/POS_CASH_balance.csv
 data/previous_application.csv
+data/installments_payments.csv
